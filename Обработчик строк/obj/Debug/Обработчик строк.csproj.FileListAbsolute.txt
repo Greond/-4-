@@ -1,0 +1,10 @@
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\bin\Debug\Обработчик строк.exe.config
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\bin\Debug\Обработчик строк.exe
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\bin\Debug\Обработчик строк.pdb
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\obj\Debug\Обработчик строк.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\obj\Debug\Обработчик_строк.Form1.resources
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\obj\Debug\Обработчик_строк.Properties.Resources.resources
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\obj\Debug\Обработчик строк.csproj.GenerateResource.cache
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\obj\Debug\Обработчик строк.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\obj\Debug\Обработчик строк.exe
+C:\Users\123\source\repos\Обработчик строк\Обработчик строк\obj\Debug\Обработчик строк.pdb
